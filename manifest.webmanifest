@@ -1,0 +1,13 @@
+{
+  "name": "Taller Pit Stop",
+  "short_name": "Pit Stop",
+  "description": "Gestión de clientes, vehículos, servicios y proformas del taller.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07121c",
+  "theme_color": "#07121c",
+  "lang": "es",
+  "icons": [
+    { "src": "assets/logo-pit-stop.jpg", "sizes": "1280x720", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
